@@ -13,6 +13,6 @@ As for my personal homepage... well, there's not much to see there. 😄
 
 # 你好世界  👋
 
-**我是一个编程爱好者和开发者**，**银河万通软件开发工作室**的站长。我的项目基本都放在工作室的 [GitHub](https://github.com/GVSADS/) 上。  
+**我是一个编程爱好者和开发者**，**银河万通软件开发工作室**的站长。我的项目基本都放在工作室的 [GitHub](https://github.com/GVSDS/) 上。  
 
 至于我的个人主页……其实没什么好看的，不用特意去访问啦。😄
